@@ -51,7 +51,7 @@ export const products: Product[] = [
     description: 'Confort premium para cualquier ocasión'
   },
   {
-    id: 'm6',
+    id: 'm7',
     name: 'Joggers Elite Series',
     price: 54.99,
     image: 'comingsoon.webp',
